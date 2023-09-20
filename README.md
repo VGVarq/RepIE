@@ -31,6 +31,6 @@ Los objetivos de este proyecto incluyen:
 
 ## Licencia
 
-Este proyecto está bajo la Licencia Creative Commons Atribución-NoComercial-CompartirIgual 4.0 Internacional. Consulta el archivo LICENSE para más detalles.
+Este proyecto está bajo la Licencia Creative Commons Atribución-NoComercial-CompartirIgual 4.0 Internacional. Consulta el archivo [LICENSE](LICENSE) para más detalles.
 
 
